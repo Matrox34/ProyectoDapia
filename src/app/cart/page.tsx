@@ -61,7 +61,7 @@ export default function CartPage() {
             onClick={handlePurchase}
             className="bg-green-600 text-white w-full py-2 rounded-xl hover:bg-green-700"
           >
-            Finalizar Compra
+            Finalizar Comp
           </button>
         </div>
       )}
