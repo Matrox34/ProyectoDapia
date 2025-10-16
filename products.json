@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Audífonos Bluetooth",
+    "price": 499,
+    "image": "/images/audifonos.jpg",
+    "description": "Audífonos inalámbricos con cancelación de ruido."
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch Deportivo",
+    "price": 899,
+    "image": "/images/smartwatch.jpg",
+    "description": "Reloj inteligente resistente al agua."
+  },
+  {
+    "id": 3,
+    "name": "Mochila Ecológica",
+    "price": 299,
+    "image": "/images/mochila.jpg",
+    "description": "Mochila de materiales reciclados, ideal para laptop."
+  }
+]
