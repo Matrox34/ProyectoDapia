@@ -26,7 +26,7 @@ export default function CartPage() {
               key={item.product.id}
               className="flex items-center justify-between border p-4 rounded-xl bg-white shadow"
             >
-              <span>{item.product.name}</span>
+              <span className="text-color black">{item.product.name}</span>
               <div className="flex items-center gap-2">
                 <button
                   onClick={() =>
